@@ -1,0 +1,66 @@
+{
+    "video": "interview4.mov",
+    "events": [
+        {
+            "timestamp": "0:00:08",
+            "event_type": "SPEECH_DETECTED"
+        },
+        {
+            "timestamp": "0:00:08",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:09",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:09",
+            "event_type": "SPEECH_DETECTED"
+        },
+        {
+            "timestamp": "0:00:09",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:20",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:21",
+            "event_type": "SPEECH_DETECTED"
+        },
+        {
+            "timestamp": "0:00:21",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:22",
+            "event_type": "SPEECH_DETECTED"
+        },
+        {
+            "timestamp": "0:00:22",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:35",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:39",
+            "event_type": "SPEECH_DETECTED"
+        },
+        {
+            "timestamp": "0:00:39",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:40",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:41",
+            "event_type": "LOOKING_AWAY"
+        }
+    ],
+    "summary": "There were several moments when the subject looked away from the screen. Frequent keyboard typing sounds were detected, suggesting possible unauthorized computer use. Extended periods of speech were detected, possibly indicating conversation."
+}

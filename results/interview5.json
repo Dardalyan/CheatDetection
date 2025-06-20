@@ -1,0 +1,78 @@
+{
+    "video": "interview5.mov",
+    "events": [
+        {
+            "timestamp": "0:00:02",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:03",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:06",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:07",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:09",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:11",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:12",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:15",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:16",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:18",
+            "event_type": "EXTERNAL_DEVICE_DETECTED"
+        },
+        {
+            "timestamp": "0:00:19",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:20",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:22",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:25",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:26",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:29",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:29",
+            "event_type": "EXTERNAL_DEVICE_DETECTED"
+        },
+        {
+            "timestamp": "0:00:32",
+            "event_type": "LOOKING_AWAY"
+        }
+    ],
+    "summary": "There were several moments when the subject looked away from the screen. An unauthorized device was visible in the video multiple times."
+}

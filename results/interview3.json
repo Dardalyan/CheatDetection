@@ -1,0 +1,74 @@
+{
+    "video": "interview3.mov",
+    "events": [
+        {
+            "timestamp": "0:00:01",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:04",
+            "event_type": "NO_PEOPLE"
+        },
+        {
+            "timestamp": "0:00:05",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:06",
+            "event_type": "SPEECH_DETECTED"
+        },
+        {
+            "timestamp": "0:00:06",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:07",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:20",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:29",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:30",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:35",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:47",
+            "event_type": "SPEECH_DETECTED"
+        },
+        {
+            "timestamp": "0:00:47",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:52",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:56",
+            "event_type": "SPEECH_DETECTED"
+        },
+        {
+            "timestamp": "0:00:56",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:01:04",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:01:05",
+            "event_type": "LOOKING_AWAY"
+        }
+    ],
+    "summary": "There were several moments when the subject looked away from the screen. The subject was temporarily not visible in the video. Frequent keyboard typing sounds were detected, suggesting possible unauthorized computer use. Occasional speech was detected, which may indicate communication."
+}

@@ -1,0 +1,58 @@
+{
+    "video": "interview1.mov",
+    "events": [
+        {
+            "timestamp": "0:00:02",
+            "event_type": "SPEECH_DETECTED"
+        },
+        {
+            "timestamp": "0:00:02",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:03",
+            "event_type": "SPEECH_DETECTED"
+        },
+        {
+            "timestamp": "0:00:03",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:20",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:21",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:23",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:27",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:28",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:38",
+            "event_type": "LOOKING_AWAY"
+        },
+        {
+            "timestamp": "0:00:48",
+            "event_type": "SPEECH_DETECTED"
+        },
+        {
+            "timestamp": "0:00:48",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        },
+        {
+            "timestamp": "0:00:49",
+            "event_type": "KEYBOARD_TYPING_DETECTED"
+        }
+    ],
+    "summary": "There were several moments when the subject looked away from the screen. Frequent keyboard typing sounds were detected, suggesting possible unauthorized computer use. Occasional speech was detected, which may indicate communication."
+}
