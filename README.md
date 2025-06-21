@@ -958,7 +958,7 @@ First of all, it defines its own detection results using a custom format.
         self.detection_results = [{'video': video, 'events': []} for video in self.video_list]
 ```
 
-### CheatDetectionPipeline().detect()
+### CheatDetectionPipeline().start_detection()
 
 The `CheatDetectionPipeline` runs a comprehensive 4-layered detection process on a provided list of videos. The layers are:
 ##### 1. Face detection
