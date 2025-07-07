@@ -3,8 +3,17 @@ This is a lightweight and modular project designed to detect suspicious behavior
 
 Instead of relying on large-scale vision-language models (VLMs) like LLaVA or GPT-4o, which are paid and difficult to run locally due to heavy resource requirements, I chose a more engineering-oriented approach. I used accessible tools such as YOLOv8, OpenCV, and YAMNet to build a custom detection pipeline tailored for this task.
 
-While models like BLIP or BLIP-2 can run locally, they did not meet the performance or flexibility I needed. Therefore, I created my own modular detection system — not by training a new foundation model, but by integrating and managing existing detectors like face detection, object tracking, and audio classification in a unified pipeline.
+While models like BLIP or BLIP-2 can run locally, they did not meet the performance or flexibility I needed.
+Therefore, I created my own modular detection system — not by training a new foundation model, but by designing and implementing a complete detection pipeline from scratch.
+This includes custom-built components such as:
 
+- face detector (using MediaPipe framework),
+- object detector (using YOLOv8),
+- audio-based detectors (based on YAMNet),
+
+all integrated under a unified and extensible pipeline architecture.
+   
+Both the "detectors" and "pipeline" submodules are fully designed and developed by me, allowing full control, transparency, and easy customization of the detection logic.
 The result is a system that is:
 
 ⚡️ Lightweight   
