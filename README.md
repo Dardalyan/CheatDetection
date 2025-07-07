@@ -1,4 +1,4 @@
-# ⛏️ Cheat Detection Tool
+# ⛏️ Cheat Detection Tool 
 This is a lightweight and modular project designed to detect suspicious behaviors during test or interview sessions through video and audio analysis.
 
 Instead of relying on large-scale vision-language models (VLMs) like LLaVA or GPT-4o, which are paid and difficult to run locally due to heavy resource requirements, I chose a more engineering-oriented approach. I used accessible tools such as YOLOv8, OpenCV, and YAMNet to build a custom detection pipeline tailored for this task.
