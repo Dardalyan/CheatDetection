@@ -1,17 +1,16 @@
 # ⛏️ Cheat Detection Tool
+This is a lightweight and modular project designed to detect suspicious behaviors during test or interview sessions through video and audio analysis.
 
-This is a lightweight, modular project designed for detecting 
-suspicious behaviors during test or interview sessions using video and audio analysis.
+Instead of relying on large-scale vision-language models (VLMs) like LLaVA or GPT-4o, which are paid and difficult to run locally due to heavy resource requirements, I chose a more engineering-oriented approach. I used accessible tools such as YOLOv8, OpenCV, and YAMNet to build a custom detection pipeline tailored for this task.
 
-Before starting this project, I decided to create my own 
-'detection' module and also its submodules like 'detectors' and
-'pipeline'. The reason is that large VLMs like `LLaVA` or `GPT-4o` are paid, and 
-it is hard to run locally due to their size and resource requirements (e.g LLaVA).
-In addition, the other models which are able to run locally like `BLIP/BLIP2`
-didn't give me what I expect and also need for specific tasks.
+While models like BLIP or BLIP-2 can run locally, they did not meet the performance or flexibility I needed. Therefore, I created my own modular detection system — not by training a new foundation model, but by integrating and managing existing detectors like face detection, object tracking, and audio classification in a unified pipeline.
 
-As a result, I built a custom detection module that is lightweight, fast, modular, 
-and easy to expand later.
+The result is a system that is:
+
+⚡️ Lightweight   
+🔧 Modular  
+🚀 Fast  
+♻️ Easily extensible
 
 The entire design, architecture, and implementation of the core detection module 
 — including the detectors and pipeline submodules — 
